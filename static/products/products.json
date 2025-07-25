@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Goodbye & Good Riddance",
+    "description": "Juice WRLD's debut album, Goodbye & Good Riddance, is a 2018 project exploring themes of heartbreak, drug use, and the emotional struggles of young adulthood. The album features 15 tracks, including the hit singles \"All Girls Are the Same\", \"Lucid Dreams\", and \"Lean Wit Me\". It's noted for its raw, confessional lyrics and its exploration of complex emotions, with critics highlighting its relatability and impact, particularly on the emo rap scene. \n",
+    "image": "goodbye.png",
+    "price": 29.99
+  },
+  {
+    "id": 2,
+    "name": "Graduation",
+    "description": "Graduation\" is the third studio album by Kanye West, released on September 11, 2007. It features a shift in musical style from West's previous soul-based sound towards more anthemic, stadium-friendly compositions with influences from house music and indie rock. The album explores themes of fame, ambition, and overcoming obstacles, with a focus on self-congratulation and celebration of success",
+    "image": "graduation.png",
+    "price": 34.99
+  },
+  {
+    "id": 3,
+    "name": "I AM MUSIC",
+    "description": "I Am Music\" is the third studio album by American rapper Playboi Carti, released on March 14, 2025. It's a 30-track, 77-minute album categorized as trap music, with a mix of rage-fueled tracks and more polished, mainstream-leaning collaborations according to a review on Medium. The album features guest appearances from artists like Kendrick Lamar, Future, Young Thug, and Travis Scott. ",
+    "image": "music.png",
+    "price": 29.99
+  },
+  {
+    "id": 4,
+    "name": "ASTROWORLD",
+    "description": "Travis Scott's third studio album, Astroworld, was released on August 3, 2018, by Cactus Jack Records and Grand Hustle Records, distributed by Epic Records. The album is a hip-hop record with psychedelic and trap influences. It features guest appearances from artists like Drake, Frank Ocean, The Weeknd, Kid Cudi, and many others. The album was praised for its maximalist production and sonic textures, with elements like psychedelic guitars, trap drums, and hazy synths. ",
+    "image": "astroworld.png",
+    "price": 32.99
+  },
+  {
+    "id": 5,
+    "name": "the first time",
+    "description": "The First Time\" is The Kid LAROI's debut studio album, released on November 10, 2023. The album explores themes of love, loss, and personal growth, with a mix of pop-inspired tracks and more introspective songs. It features collaborations with artists like Jung Kook, Central Cee, Future, BabyDrill, and d4vd. The deluxe version, released on August 9, 2024, includes additional tracks. ",
+    "image": "img.png",
+    "price": 28.99
+  },
+  {
+    "id": 6,
+    "name": "Streets of Rage 2 Original Soundtrack",
+    "description": "The \"Streets of Rage 2 Original Soundtrack\" is the music from the 1992 Sega Genesis/Mega Drive game, composed by Yuzo Koshiro with some contributions from Motohiro Kawashima according to Wikipedia. It's celebrated for its innovative blend of house, techno, and other electronic dance music styles, pushing the boundaries of what was possible on the 16-bit console's sound chip. The soundtrack is considered a classic and has been re-released in various formats, including vinyl and digital downloads",
+    "image": "sor2.png",
+    "price": 39.99
+  }
+]
