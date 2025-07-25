@@ -146,6 +146,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-> 🔍 **Note**: To add a banner image to your GitHub repository, create a `screenshots` directory and add application screenshots there. Then update the banner image path in this README.
 
 Built with ❤️ using Rust + WebAssembly + Yew
