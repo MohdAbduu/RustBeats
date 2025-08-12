@@ -60,70 +60,6 @@ rustmart/
 └── Cargo.toml             # Rust dependencies and config
 ```
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-```bash
-# Install Rust
-curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
-
-# Add WebAssembly target
-rustup target add wasm32-unknown-unknown
-
-# Install wasm-pack
-cargo install wasm-pack
-
-# Install Node.js and npm (for development server)
-# Download from https://nodejs.org/
-```
-
-### Development Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/rustmart.git
-cd rustmart
-```
-
-2. **Install dependencies**
-```bash
-# Install Rust dependencies
-cargo check
-
-# Install npm dependencies
-cd static
-npm install
-```
-
-3. **Run the development server**
-```bash
-# Build WASM package
-wasm-pack build
-
-# Start development server
-npm start
-```
-
-4. Open `http://localhost:3000` in your browser
-
-## 🔧 Building for Production
-
-```bash
-# Build optimized WASM bundle
-wasm-pack build --release
-
-# Bundle static assets
-cd static
-npm run build
-```
-
-## 🧪 Testing
-
-```bash
-cargo test
-wasm-pack test --headless --firefox
-```
 
 ## 📝 Implementation Details
 
@@ -133,10 +69,6 @@ wasm-pack test --headless --firefox
 - **Component Architecture**: Modular design with reusable components
 - **WebAssembly Integration**: Direct DOM manipulation through wasm-bindgen
 
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
